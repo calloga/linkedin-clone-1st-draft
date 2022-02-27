@@ -1,0 +1,14 @@
+.widgets {
+  top: 80px;
+  margin-top: 25px;
+  flex: 0.3;
+  margin-left: 0px;
+  border-radius: 10px;
+  height: fit-content;
+  border: 1px solid lightgray;
+  width: 100%;
+
+  border: solid 1px blue;
+
+  background-color: black;
+}
